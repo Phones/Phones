@@ -16,7 +16,7 @@
   ##
 
 
-- 🔭 Atualmente lido com um vazio imenso e ouço musicas tristes todos os dias, esperando que um dia achar uma gotica que goste de python :(
+- 🔭 Atualmente lido com um vazio imenso e ouço musicas tristes todos os dias, esperando um dia achar uma gotica que goste de python :(
 - ☕ Estudando e desenvolvendo pesquisas na area de otimização
 - 👯 Engenheiro de computação em formação
 - 📫 How to reach me: paulohenriqueh178h@gmail.com
