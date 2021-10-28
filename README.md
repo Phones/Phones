@@ -1,4 +1,4 @@
-# Os de vdd eu sei quem são
+# Salve Salve
 
 <div align="center">
   <a href="https://github.com/Phones">
@@ -16,18 +16,17 @@
   ##
 
 
-- 🔭 Atualmente lido com um vazio interno imenso, enquanto ouço musicas tristes todos os dias, esperando um dia achar uma gotica que goste de C++ e Python.
-- ☕ Estudando e desenvolvendo pesquisas na area de otimização
-- 💻 Engenheiro de computação em formação
+- 🔭 Formando em engenharia de computação
+- ☕ Estudando e desenvolvendo pesquisas na area de otimização.
+- 💻 Engenheiro de computação em formação.
 - 📫 How to reach me: paulohenriqueh178h@gmail.com
-- ⚡ Fun fact: Já compilei um kernel linux
   
   
  ##
   
 <div>  
   <a href = "mailto:paulohenriqueh178h@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavo-da-silva-carvalho-578bb218b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/paulo-henrique-campos-b5414a191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
