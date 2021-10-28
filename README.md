@@ -18,8 +18,8 @@
 
 - 🔭 Estágiario em Machine Learning Engineering. 
 - ☕ Estudando e desenvolvendo pesquisas na area de otimização.
-- 💻 Engenheiro de computação em formação.
-- 📫 How to reach me: paulohenriqueh178h@gmail.com
+- 💻 Formando em engenharia de computação.
+- 📫 contato: paulohenriqueh178h@gmail.com
   
   
  ##
