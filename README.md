@@ -16,7 +16,7 @@
   ##
 
 
-- 🔭 Estágiario em Machine Learning Engineering. 
+- 🔭 Analista de Dados Jr. 
 - ☕ Estudando e desenvolvendo pesquisas na area de otimização.
 - 💻 Formando em engenharia de computação.
 - 📫 contato: paulohenriqueh178h@gmail.com
