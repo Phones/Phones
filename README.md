@@ -16,8 +16,8 @@
   ##
 
 
-- 🔭 Analista de Dados Jr. 
-- ☕ Estudando e desenvolvendo pesquisas na area de otimização.
+- 🔭 Desenvolvedor Python. 
+- ☕ Estudando e desenvolvendo pesquisas na area de otimização combinatória.
 - 💻 Formando em engenharia de computação.
 - 📫 contato: paulohenriqueh178h@gmail.com
   
